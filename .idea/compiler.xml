@@ -2,6 +2,9 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="database" target="21" />
+      <module name="database.main" target="21" />
+      <module name="database.test" target="21" />
       <module name="OscarsFetcher" target="21" />
       <module name="OscarsFetcher.main" target="21" />
       <module name="OscarsFetcher.test" target="21" />

@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/StartGradle.iml" filepath="$PROJECT_DIR$/StartGradle.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/database.iml" filepath="$PROJECT_DIR$/database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/database.main.iml" filepath="$PROJECT_DIR$/.idea/modules/database.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/database.test.iml" filepath="$PROJECT_DIR$/.idea/modules/database.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/teme-lab-BujorelActimel.iml" filepath="$PROJECT_DIR$/.idea/teme-lab-BujorelActimel.iml" />
     </modules>
   </component>
